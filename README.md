@@ -1,9 +1,7 @@
 # https://darctorim.github.io/InvoTexnelogi.github.io
-<div aling="center">
-<h1>Trial site about technology</h1>
-<p1>Information site, created by me as a test layout. Technology bundles are used - HTML, CSS, JavaScript.<p1> 
+<h1 align="center">Trial site about technology</h1>
+<div align="center"><p1>Information site, created by me as a test layout. Technology bundles are used - HTML, CSS, JavaScript.<p1></div>
 <h6>Non-profit project.</h6>
-</div>
 
 ![Screenshot_4](https://user-images.githubusercontent.com/124584927/220343616-eaed5ab1-7fb5-4b02-a138-6bdabf7c7c47.png)
 
