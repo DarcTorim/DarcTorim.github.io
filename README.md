@@ -1,4 +1,4 @@
-# https://darctorim.github.io/InvoTexnelogi.github.io
+# <div align="center">https://darctorim.github.io/InvoTexnelogi.github.io</div>
 <h1 align="center">Trial site about technology</h1>
 <div align="center"><p1>Information site, created by me as a test layout. Technology bundles are used - HTML, CSS, JavaScript.<p1></div>
 <h6>Non-profit project.</h6>
